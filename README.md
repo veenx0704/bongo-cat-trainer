@@ -1,9 +1,23 @@
-# Bongo Cat trainer +52: points, hats, chests, auto bongo [v1.0.0]
+# Bongo Cat Trainer (+52) — Free Download 2026
 
-[Download EN](https://moggydaytrainer.com/en/f/bongo-cat-trainer) · [Скачать RU](https://moggydaytrainer.com/f/bongo-cat-trainer) · [Bongo Cat hub](https://moggydaytrainer.com/g/bongo-cat) · [Bongo Cat news](https://moggydaytrainer.com/g/bongo-cat/news)
+<p align="left">
+  <a href="https://moggydaytrainer.com/en/f/bongo-cat-trainer"><img alt="Download English trainer" src="https://img.shields.io/badge/⬇%20Download-English%20trainer-2563eb?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/f/bongo-cat-trainer"><img alt="Russian page" src="https://img.shields.io/badge/Русская%20страница-1d4ed8?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/zh/f/bongo-cat-trainer"><img alt="Chinese page" src="https://img.shields.io/badge/中文%20页面-1e40af?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/en/g/bongo-cat"><img alt="Game hub" src="https://img.shields.io/badge/Bongo%20Cat%20hub-334155?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/en/games"><img alt="All trainers" src="https://img.shields.io/badge/MoggyDay%20catalog-0f766e?style=for-the-badge"></a>
+</p>
 
 
-**Bongo Cat** has a maintained MoggyDay trainer (v1.0.0, **+52** options: Bongo Cat trainer +52: points, hats, chests, auto bongo. Offline overlay only.). This repository keeps a public, indexable copy of the listing so `Bongo Cat trainer download` resolves to [https://moggydaytrainer.com/en/f/bongo-cat-trainer](https://moggydaytrainer.com/en/f/bongo-cat-trainer). Screenshots below are the same shots as on the site. We do not attach an `.exe` to git — clone this tree and you still have to open MoggyDay.
+MoggyDay hosts the official **Bongo Cat** trainer for Windows (v1.0.0, **+52** toggles). This repository is a public mirror: game context, screenshots, and the full feature list. The download button lives only on [moggydaytrainer.com](https://moggydaytrainer.com) — there is **no `.exe` in git**.
+
+## About Bongo Cat
+
+Bongo Cat is a PC game. MoggyDay documents a dedicated trainer with live toggles for single-player and offline sessions. It is listed in the MoggyDay catalog as a Windows title (Steam app 3419430).
+
+## About the MoggyDay trainer
+
+Bongo Cat has a maintained MoggyDay trainer (v1.0.0, +52 options: Bongo Cat trainer +52: points, hats, chests, auto bongo. Offline overlay only.). This repository keeps a public, indexable copy of the listing so `Bongo Cat trainer download` resolves to [https://moggydaytrainer.com/en/f/bongo-cat-trainer](https://moggydaytrainer.com/en/f/bongo-cat-trainer). Screenshots below are the same shots as on the site. We do not attach an `.exe` to git — clone this tree and you still have to open MoggyDay.
 
 ## Screenshots
 
@@ -19,89 +33,39 @@ Shots from the live [Bongo Cat trainer page](https://moggydaytrainer.com/en/f/bo
 
 [![Bongo Cat options 3](https://moggydaytrainer.com/media/shots/hub-bongo/fn-3.png)](https://moggydaytrainer.com/en/f/bongo-cat-trainer)
 
-## Who this is for
+## Trainer features (+52)
 
-Built for PC players who already own Bongo Cat and want a local trainer: god mode, resources, speed, and the game-specific toggles from the live option list. Useful when you are tired of grinding the same loop or testing a build.
+The table matches the live launcher pack. Hotkeys may change after a patch — confirm on the [English trainer page](https://moggydaytrainer.com/en/f/bongo-cat-trainer).
 
-## Live URLs
+| # | Feature | Category | Hotkey | Type |
+|---:|---|---|---|---|
+| 1 | Bongo Cat trainer +52: points | — | — | |
+| 2 | hats | — | — | |
+| 3 | chests | — | — | |
+| 4 | auto bongo. Offline overlay only. | — | — | |
 
-| Page | URL |
-|---|---|
-| English trainer | [https://moggydaytrainer.com/en/f/bongo-cat-trainer](https://moggydaytrainer.com/en/f/bongo-cat-trainer) |
-| Русский трейнер | [https://moggydaytrainer.com/f/bongo-cat-trainer](https://moggydaytrainer.com/f/bongo-cat-trainer) |
-| Game hub | [https://moggydaytrainer.com/g/bongo-cat](https://moggydaytrainer.com/g/bongo-cat) |
-| Trainers tab | [https://moggydaytrainer.com/g/bongo-cat/trainers](https://moggydaytrainer.com/g/bongo-cat/trainers) |
-| News | [https://moggydaytrainer.com/g/bongo-cat/news](https://moggydaytrainer.com/g/bongo-cat/news) |
-| Catalog | [https://moggydaytrainer.com/games](https://moggydaytrainer.com/games) |
-
-## Bongo Cat trainer v1.0.0: +52 options
-
-Copy taken from the current MoggyDay description so this page does not drift from the live listing.
-
-| # | Option |
-|---|---|
-| 1 | Bongo Cat trainer +52: points |
-| 2 | hats |
-| 3 | chests |
-| 4 | auto bongo. Offline overlay only. |
-
-### What those toggles are for
+### Tips
 
 - **Bongo Cat trainer +52: points** — Usually the first toggle people enable on a Bongo Cat trainer.
 - **hats** — Check this after every Bongo Cat patch — values often shift.
 - **chests** — Leave it off if you only want a mild resource boost.
 - **auto bongo. Offline overlay only.** — Pairs with the other combat toggles on the Bongo Cat page.
 
-The full hotkey grid is only on the [download page](https://moggydaytrainer.com/en/f/bongo-cat-trainer). GitHub stays a summary.
+## Download
 
-## How to download
+1. Open **[Bongo Cat trainer +52: points, hats, chests, auto bongo [v1.0.0]](https://moggydaytrainer.com/en/f/bongo-cat-trainer)** (or [Russian listing](https://moggydaytrainer.com/f/bongo-cat-trainer), [Chinese listing](https://moggydaytrainer.com/zh/f/bongo-cat-trainer)).
+2. Confirm the domain is **moggydaytrainer.com**.
+3. Use the primary **Free download** button on that page.
+4. After a Bongo Cat update, reload the same URL — the slug `/f/bongo-cat-trainer` never moves.
 
-1. Open **[Bongo Cat trainer +52: points, hats, chests, auto bongo [v1.0.0]](https://moggydaytrainer.com/en/f/bongo-cat-trainer)** or **[Bongo Cat «Трейнер +52: очки, шляпы, сундуки, авто-бонго» [v1.0.0]](https://moggydaytrainer.com/f/bongo-cat-trainer)**.
-2. Confirm the host is **moggydaytrainer.com**.
-3. Use the primary download button. Ignore zips that copy this README.
-4. After a Bongo Cat patch, reload the same URL. We do not publish binaries as GitHub Releases.
+## Install (Windows)
 
-Wrong paths: cloning this repo, a random `Release` asset, a Telegram file named `bongo-cat-trainer.exe`.
+1. Close Bongo Cat before trying a new build.
+2. Run only files from MoggyDay for `bongo-cat-trainer`.
+3. Enable a few toggles first, not the entire +52 list.
+4. Keep a backup save before resource or progression edits.
 
-## What the screenshots show
-
-The first image is the Bongo Cat cover used on MoggyDay. The strip after it is taken from the live trainer card: the page header, the option list, and extra function shots. If a thumbnail here 404s, the site still has the file — we hotlink `/media/shots/` so Google sees the same bytes as the listing. Click any image to open [https://moggydaytrainer.com/en/f/bongo-cat-trainer](https://moggydaytrainer.com/en/f/bongo-cat-trainer).
-
-## Install notes (Windows)
-
-1. Close Bongo Cat before the first run of a new trainer build.
-2. Unpack or run only what MoggyDay gave you for `bongo-cat-trainer`.
-3. Start the trainer, then start Bongo Cat (or the order printed on the live page if it differs).
-4. Enable one or two toggles, not the whole +52 list at once.
-5. Make a spare save. God mode and resource edits are hard to undo if you overwrite the only slot.
-
-Antivirus sometimes flags trainers. That is normal for this file class. Download again from the same URL if the hash on the site changes.
-
-## If something does not work
-
-- The game patched and the v1.0.0 heading is older than the Bongo Cat build you launched — wait for MoggyDay to bump the page.
-- You used a bookmark that is not `/f/bongo-cat-trainer` — switch to the URLs in the table above.
-- Only the DLL or only the EXE was copied from a friend — get the pair from the site.
-- Overlay or other injectors are running — turn them off and retry.
-
-## After a Bongo Cat update
-
-Trainers break when the game moves values. MoggyDay bumps the H1 version when a new pair is ready. Keep this bookmark. If a screenshot here looks older than the site, trust the site — we refresh this mirror after the listing, not before.
-
-## RU
-
-**Bongo Cat «Трейнер +52: очки, шляпы, сундуки, авто-бонго» [v1.0.0]**
-
-Трейнер Bongo Cat +52: очки, шляпы, сундуки, авто-бонго. Только офлайн-оверлей.
-
-Скриншоты и опции те же, что на английской карточке. Скачивать нужно отсюда:
-
-- Трейнер: https://moggydaytrainer.com/f/bongo-cat-trainer
-- Хаб Bongo Cat: https://moggydaytrainer.com/g/bongo-cat
-- Новости: https://moggydaytrainer.com/g/bongo-cat/news
-- Каталог: https://moggydaytrainer.com/games
-
-Файл не лежит в git. Если кто-то прислал «тот же трейнер» с другого домена — не ставь.
+## FAQ
 
 ## FAQ
 
@@ -120,19 +84,23 @@ Yes — [Bongo Cat «Трейнер +52: очки, шляпы, сундуки, �
 **Why GitHub at all?**
 So `Bongo Cat trainer` search has a documented page with screenshots that points at the real download, instead of a dead file host.
 
-## Search notes
+
+## Search terms (English)
 
 `Bongo Cat trainer`, `Bongo Cat trainer download`, `Bongo Cat cheats`, `Bongo Cat hack`, `Bongo Cat god mode`, `free Bongo Cat trainer`, `Bongo Cat trainer 2026`, `скачать трейнер Bongo Cat`
 
-We keep tags aligned with the live page. This is documentation, not a keyword dump.
+## Other languages
+
+- Russian copy: [ru.md](ru.md) · live page [https://moggydaytrainer.com/f/bongo-cat-trainer](https://moggydaytrainer.com/f/bongo-cat-trainer)
+- Chinese page: [https://moggydaytrainer.com/zh/f/bongo-cat-trainer](https://moggydaytrainer.com/zh/f/bongo-cat-trainer)
 
 ## Other MoggyDay trainers
 
-- ![Slay the Spire 2 cover](https://moggydaytrainer.com/media/covers/slay-the-spire-2-f9ee2b36d6.jpg) [Slay the Spire 2 trainer +54: energy, cards, relics, gold [v1.0.0]](https://moggydaytrainer.com/en/f/slay-the-spire-2-trainer) · [RU](https://moggydaytrainer.com/f/slay-the-spire-2-trainer)
-- ![Aion 2 cover](https://moggydaytrainer.com/media/covers/aion-2-904f944c0c.jpg) [Aion 2 trainer +54: kinah, wings, DP, abyss [v1.0.0]](https://moggydaytrainer.com/en/f/aion-2-trainer) · [RU](https://moggydaytrainer.com/f/aion-2-trainer)
-- ![Cyberpunk 2077 cover](https://moggydaytrainer.com/media/covers/cyberpunk-2077-125fcba34d.jpg) [Cyberpunk 2077 "Trainer +52: God Mode, Money, One Hit, No Reload, RAM" [v2.2.0]](https://moggydaytrainer.com/en/f/cyberpunk-2077-trainer) · [RU](https://moggydaytrainer.com/f/cyberpunk-2077-trainer)
-- ![Mortal Shell II cover](https://moggydaytrainer.com/media/covers/mortal-shell-ii-06c53c7a8a.jpg) [Mortal Shell 2 "Trainer +34: God Mode, Resolve, Harden, Tar, One Hit" [v1.2.0]](https://moggydaytrainer.com/en/f/mortal-shell-2-trainer) · [RU](https://moggydaytrainer.com/f/mortal-shell-2-trainer)
+- ![The Blood of Dawnwalker cover](https://moggydaytrainer.com/media/covers/the-blood-of-dawnwalker-b38ba17632.jpg) [The Blood of Dawnwalker trainer +36: health, vampire blood, crafting, flight [v1.0.0]](https://moggydaytrainer.com/en/f/the-blood-of-dawnwalker-trainer) · [RU](https://moggydaytrainer.com/f/the-blood-of-dawnwalker-trainer)
+- ![Forever Skies cover](https://cdn.akamai.steamstatic.com/steam/apps/1641960/library_600x900_2x.jpg) [Forever Skies trainer +41: oxygen, airship hull, resources and crafting [v1.0.0]](https://moggydaytrainer.com/en/f/forever-skies-trainer) · [RU](https://moggydaytrainer.com/f/forever-skies-trainer)
+- ![Bookshop Simulator cover](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3467040/59aee3012d79115ee3637d14d387b0494b63b316/library_capsule_2x.jpg) [Bookshop Simulator trainer +40: money, stock, customers and reputation [v1.0.0]](https://moggydaytrainer.com/en/f/bookshop-simulator-trainer) · [RU](https://moggydaytrainer.com/f/bookshop-simulator-trainer)
+- ![The Witcher 3: Wild Hunt – Remastered cover](https://moggydaytrainer.com/media/covers/the-witcher-3-wild-hunt-remastered.jpg) [The Witcher 3: Wild Hunt – Remastered trainer +54: health, orens, signs, crafting and Gwent [v1.0.0]](https://moggydaytrainer.com/en/f/the-witcher-3-wild-hunt-remastered-trainer) · [RU](https://moggydaytrainer.com/f/the-witcher-3-wild-hunt-remastered-trainer)
 
-## About
+## About this mirror
 
-Mirror maintained from `veenx0704` so `Bongo Cat trainer` can cite a GitHub URL that **points at** [moggydaytrainer.com](https://moggydaytrainer.com). No executable is stored here.
+Maintained by `veenx0704` for SEO transparency. Canonical download: [https://moggydaytrainer.com/en/f/bongo-cat-trainer](https://moggydaytrainer.com/en/f/bongo-cat-trainer). Screenshots hotlink MoggyDay `/media/` assets.
